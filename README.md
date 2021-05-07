@@ -1,5 +1,5 @@
 ### Hi there 👋
-(https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif  =50px)
+(https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif  =50)
 <!--
 **LinnetteVazquez/LinnetteVazquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
