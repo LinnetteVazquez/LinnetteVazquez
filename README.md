@@ -1,4 +1,6 @@
 
+
+
 # Hi, Im Linnette Vázquez!
 
 ![enter image description here](https://media.giphy.com/media/0fijPACTUs09yTeQ2Y/giphy.gif)
@@ -15,3 +17,7 @@ ___
 **or here**![linkedIn](https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif =50x)
 
 [linkedIn]: www.linkedin.com/in/linnette-vazquez-velazco 
+
+
+
+
