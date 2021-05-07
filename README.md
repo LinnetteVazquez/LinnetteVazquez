@@ -1,7 +1,7 @@
 
 
 
-# Hi, Im Linnette Vázquez!
+# Hi, I'm Linnette Vázquez!
 
 ![enter image description here](https://media.giphy.com/media/0fijPACTUs09yTeQ2Y/giphy.gif)
 
