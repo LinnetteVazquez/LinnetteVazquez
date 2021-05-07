@@ -25,12 +25,16 @@ ___
 <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="60" height="50" />
 
 
+### Stats and Languages
+___
+
+
+![LinneteVazquez's GitHub stats](https://github-readme-stats.vercel.app/api?username=LinnetteVazquez&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LinnetteVazquez&layout=compact)](https://github.com/LinnetteVazquez/github-readme-stats)
+
 **You can contact me at linnete.vazquezv@gmail.com**
 **or here** [linkedIn] <img src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif"  width="60" height="50" /> 
 
 
 [linkedIn]: www.linkedin.com/in/linnette-vazquez-velazco 
-
-
-
-
